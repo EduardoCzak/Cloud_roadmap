@@ -8,6 +8,7 @@ Desenvolver conhecimentos em Linux, Git, AWS e infraestrutura em nuvem, preparan
 - WSL 2
 - Ubuntu 26.04 LTS
 - Git
+- GitHub CLI
 
 ## O que estou aprendendo
 - Navegação pelo terminal Linux
@@ -28,4 +29,9 @@ Desenvolver conhecimentos em Linux, Git, AWS e infraestrutura em nuvem, preparan
 - `rm`: remove arquivos.
 
 ## Progresso
-Iniciando os estudos de Linux e controle de versão.
+- [x] Configurar WSL 2 e Ubuntu
+- [x] Instalar Git
+- [x] Criar repositório local
+- [x] Criar o primeiro commit
+- [x] Autenticar no GitHub
+- [ ] Publicar o projeto no GitHub
